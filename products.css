@@ -1,0 +1,36 @@
+td{
+    text-align: center;
+    border: 1px solid rgb(248, 241, 241);
+}
+img{
+    width: 150px;
+    height: 180px;
+    
+}
+.prix{
+    color: green;
+    font-weight: 2cm;
+}
+.art{
+    font-weight: bold;
+}
+button{
+    border: 1px solid white;
+    width: 130px;
+    height: 30px;   
+}
+button:hover{
+    background-color: green;
+    color: white;
+}
+table{
+    border-spacing: 20px;
+}
+a:hover{
+    color: green;
+}
+article{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
